@@ -1,3 +1,3 @@
-module github.com/lxshong/web-param-filter
+module github.com/lxshong/webparamfilter
 
 go 1.15
